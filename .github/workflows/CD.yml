@@ -53,6 +53,6 @@ jobs:
 
           git add .
 
-          git commit -m "Deploiement automatique depuis GitHub Actions" || echo "Pas de changement"
+          git commit -m "Deploiement automatique depuis GitHub Actions" || echo "Pas de changement ajout des modifications"
 
           git push
